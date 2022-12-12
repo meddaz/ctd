@@ -19,7 +19,6 @@ fetch('https://swapi.dev/api/people/5')
 
 <br>
 <p>Homeworld: Alderaan</p>
-<br>
 
 `;
     });
