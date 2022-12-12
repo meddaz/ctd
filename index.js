@@ -20,8 +20,6 @@ fetch('https://swapi.dev/api/people/5')
 <br>
 <p>Homeworld: Alderaan</p>
 <br>
-<p>First appearance: 
-<a href="/aNewHopeCrawl.html">A New Hope</a></p>
-<br> 
+
 `;
     });
